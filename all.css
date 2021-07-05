@@ -11559,6 +11559,7 @@ fieldset:disabled .btn {
   width: 300px;
   text-align: center;
   line-height: 40px;
+  margin-right: 20px;
 }
 
 .content-menu h3, .content-menu .h3 {
@@ -11594,9 +11595,6 @@ fieldset:disabled .btn {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
   padding: 0px;
   text-align: center;
   line-height: 24px;
@@ -11611,6 +11609,8 @@ fieldset:disabled .btn {
   position: relative;
   border: 1px solid #EAF0ED;
   margin-bottom: 16px;
+  margin-left: 10px;
+  margin-right: 10px;
   width: 300px;
   line-height: 40px;
 }
