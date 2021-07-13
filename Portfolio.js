@@ -1,24 +1,24 @@
-let lists = [
+const lists = [
     {
-        "tag": "六角學院",
-        "img": "./static/Group 7.svg",
-        "title": "拼拼電商",
-        "introduction": "使用bootstrap5完成六角設計稿",
-        "link": "https://stp9640502.github.io/HEXproject/Bootstrap5%E6%96%B0%E6%89%8B%E5%AF%A6%E6%88%B0/index.html"
+        tag: "六角學院",
+        img: "./static/Group 7.svg",
+        title: "拼拼電商",
+        introduction: "使用bootstrap5完成六角設計稿",
+        link: "https://stp9640502.github.io/HEXproject/Bootstrap5%E6%96%B0%E6%89%8B%E5%AF%A6%E6%88%B0/index.html"
     },
     {
-        "tag": "六角學院",
-        "img": "./static/Group 7.svg",
-        "title": "todolist",
-        "introduction": "用JS做出todolist頁面",
-        "link": "https://stp9640502.github.io/HEXproject/%E9%AB%94%E9%A9%97%E7%87%9F/JStodoList.html"
+        tag: "六角學院",
+        img: "./static/Group 7.svg",
+        title: "todolist",
+        introduction: "用JS做出todolist頁面",
+        link: "https://stp9640502.github.io/HEXproject/%E9%AB%94%E9%A9%97%E7%87%9F/JStodoList.html"
     },
     {
-        "tag": "JS練習",
-        "img": "./static/Group 7.svg",
-        "title": "我是測試",
-        "introduction": "隨便一串測試文字",
-        "link": ""
+        tag: "JS練習",
+        img: "./static/Group 7.svg",
+        title: "我是測試",
+        introduction: "隨便一串測試文字",
+        link: ""
     }
 ];
 
